@@ -69,6 +69,8 @@
 
 **推荐资源**
 
+- https://www.runoob.com/sql/sql-tutorial.html
+
 - https://sqlite.org/
 
 - https://www.runoob.com/sqlite/sqlite-tutorial.html
