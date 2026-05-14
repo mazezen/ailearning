@@ -35,6 +35,8 @@
 
 _OpenCV: https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html_
 
+_NumPy: https://numpy.org/doc/stable/user/quickstart.html_
+
 ---
 
 ## 阶段 1：Python 编程
