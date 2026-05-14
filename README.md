@@ -31,6 +31,10 @@
 - **框架**：**PyTorch**（强烈推荐）
 - **推荐**：Karpathy《Neural Networks: Zero to Hero》、动手学深度学习
 
+### 推荐资源
+
+_OpenCV: https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html_
+
 ---
 
 ## 阶段 1：Python 编程
