@@ -37,7 +37,11 @@ _OpenCV: https://docs.opencv.org/4.x/d0/de3/tutorial_py_intro.html_
 
 _NumPy: https://numpy.org/doc/stable/user/quickstart.html_
 
----
+_PyTorch: https://pytorch.org/_
+
+_PyTorch中文文档: https://pytorch-cn.readthedocs.io/zh/latest/_
+
+_PyTorch深度学习实践: https://www.bilibili.com/video/BV1Y7411d7Ys/_
 
 ## 阶段 1：Python 编程
 
