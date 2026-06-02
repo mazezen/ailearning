@@ -1,0 +1,3 @@
+[submodule "train-llm-from-scratch"]
+	path = train-llm-from-scratch
+	url = git@github.com:mazezen/train-llm-from-scratch.git
